@@ -1,0 +1,6 @@
+{
+  "name": "우리반 네컷",
+  "description": "유치원에서 즐겁게 추억을 남기는 귀여운 네컷 사진관 앱",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
